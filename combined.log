@@ -1,0 +1,1931 @@
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error","message":"ReferenceError: logger is not defined\n    at file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/routes/index.js:46:2\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\index.js:646:15\n    at next (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\index.js:265:14)"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error","message":"ReferenceError: C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs:47\n    45|                         <h3 class=\"card-title text-center\">Signup</h3>\r\n    46|                         <p>\r\n >> 47|                            <%= message  %>\r\n    48|                         </p>\r\n    49|                         <form action=\"/auth/signup\" method=\"post\">\r\n    50|                             <div class=\"mb-3\">\r\n\nmessage is not defined\n    at eval (eval at compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12), <anonymous>:12:26)\n    at signup (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at signup (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/authController.js:41:15)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"level":"error","message":"ReferenceError: C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs:47\n    45|                         <h3 class=\"card-title text-center\">Signup</h3>\r\n    46|                         <p>\r\n >> 47|                            <%= message  %>\r\n    48|                         </p>\r\n    49|                         <form action=\"/auth/signup\" method=\"post\">\r\n    50|                             <div class=\"mb-3\">\r\n\nmessage is not defined\n    at eval (eval at compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12), <anonymous>:12:26)\n    at signup (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at signup (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/authController.js:41:15)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error","message":"ReferenceError: C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs:47\n    45|                         <h3 class=\"card-title text-center\">Signup</h3>\r\n    46|                         <p>\r\n >> 47|                            <%= message  %>\r\n    48|                         </p>\r\n    49|                         <form action=\"/auth/signup\" method=\"post\">\r\n    50|                             <div class=\"mb-3\">\r\n\nmessage is not defined\n    at eval (eval at compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12), <anonymous>:12:26)\n    at signup (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at signup (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/authController.js:41:15)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"level":"error","message":"ReferenceError: C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs:47\n    45|                         <h3 class=\"card-title text-center\">Signup</h3>\r\n    46|                         <p>\r\n >> 47|                            <%= toastMessage  %>\r\n    48|                         </p>\r\n    49|                         <form action=\"/auth/signup\" method=\"post\">\r\n    50|                             <div class=\"mb-3\">\r\n\ntoastMessage is not defined\n    at eval (eval at compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12), <anonymous>:12:26)\n    at signup (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at signup (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/authController.js:41:15)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"level":"error","message":"ReferenceError: C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs:47\n    45|                         <h3 class=\"card-title text-center\">Signup</h3>\r\n    46|                         <p>\r\n >> 47|                            <%= toastMessage  %>\r\n    48|                         </p>\r\n    49|                         <form action=\"/auth/signup\" method=\"post\">\r\n    50|                             <div class=\"mb-3\">\r\n\ntoastMessage is not defined\n    at eval (eval at compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12), <anonymous>:12:26)\n    at signup (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at signup (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/authController.js:41:15)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"level":"error","message":"ReferenceError: C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs:47\n    45|                         <h3 class=\"card-title text-center\">Signup</h3>\r\n    46|                         <p>\r\n >> 47|                            <%= toastMessage  %>\r\n    48|                         </p>\r\n    49|                         <form action=\"/auth/signup\" method=\"post\">\r\n    50|                             <div class=\"mb-3\">\r\n\ntoastMessage is not defined\n    at eval (eval at compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12), <anonymous>:12:26)\n    at signup (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at signup (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/authController.js:41:15)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"level":"error","message":"ReferenceError: C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs:47\n    45|                         <h3 class=\"card-title text-center\">Signup</h3>\r\n    46|                         <p>\r\n >> 47|                            <%= toastMessage  %>\r\n    48|                         </p>\r\n    49|                         <form action=\"/auth/signup\" method=\"post\">\r\n    50|                             <div class=\"mb-3\">\r\n\ntoastMessage is not defined\n    at eval (eval at compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12), <anonymous>:12:26)\n    at signup (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at signup (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/authController.js:41:15)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"level":"error","message":"ReferenceError: C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs:47\n    45|                         <h3 class=\"card-title text-center\">Signup</h3>\r\n    46|                         <p>\r\n >> 47|                            <%= toastMessage.toString()  %>\r\n    48|                         </p>\r\n    49|                         <form action=\"/auth/signup\" method=\"post\">\r\n    50|                             <div class=\"mb-3\">\r\n\ntoastMessage is not defined\n    at eval (eval at compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12), <anonymous>:12:26)\n    at signup (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at signup (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/authController.js:41:15)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"level":"error","message":"ReferenceError: C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs:47\n    45|                         <h3 class=\"card-title text-center\">Signup</h3>\r\n    46|                         \r\n >> 47|                            <%= toastMessage %>\r\n    48|                     \r\n    49|                         <form action=\"/auth/signup\" method=\"post\">\r\n    50|                             <div class=\"mb-3\">\r\n\ntoastMessage is not defined\n    at eval (eval at compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12), <anonymous>:12:26)\n    at signup (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:703:17)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:36)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at signup (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/authController.js:41:15)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)"}
+{"level":"error","message":"SyntaxError: Unexpected token 'if' in C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"error","message":"SyntaxError: Unexpected token 'if' in C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"error","message":"SyntaxError: Unexpected token 'if' in C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\\signup.ejs while compiling ejs\n\nIf the above error is not helpful, you may want to try EJS-Lint:\nhttps://github.com/RyanZim/EJS-Lint\nOr, if you meant to create an async function, pass `async: true` as an option.\n    at new Function (<anonymous>)\n    at Template.compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:673:12)\n    at Object.compile (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:398:16)\n    at handleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:235:18)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:274:16)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /auth/login"}
+{"level":"info","message":"[304] GET /login - 16ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 22ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /auth/login"}
+{"level":"info","message":"[304] GET /login - 11ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 18ms"}
+{"level":"info","message":"[POST] /auth/auth/login"}
+{"level":"info","message":"[200] POST /auth/auth/login - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /auth/login"}
+{"level":"info","message":"[200] GET /login - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /login - 122ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /auth/login"}
+{"level":"info","message":"[200] GET /login - 15ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /login - 111ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /login - 97ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /login - 115ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 8ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"info","message":"[200] POST /login - 117ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 9ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"info","message":"[200] POST /login - 117ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 9ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 138ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[GET] /auth/login"}
+{"level":"info","message":"[200] GET /login - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 92ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 126ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 8ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 124ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 11ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 96ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 2ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 95ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 95ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 96ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 96ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 94ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 97ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 91ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 107ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 126ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 5ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error"}
+{"level":"error","message":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:652:11)\n    at ServerResponse.header (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.send (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:174:12)\n    at done (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1035:10)\n    at tryHandleCache (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:280:5)\n    at exports.renderFile [as engine] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\ejs\\lib\\ejs.js:491:10)\n    at View.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\view.js:135:8)\n    at tryRender (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:657:10)\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:609:3)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)"}
+{"level":"info","message":"[500] POST /auth/login - 94ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"info","message":"[200] POST /login - 113ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 20ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"info","message":"[302] POST /login - 128ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 12ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"info","message":"[302] POST /login - 95ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"info","message":"[302] POST /login - 94ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"info","message":"[302] POST /login - 91ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /auth/login"}
+{"level":"info","message":"[302] POST /login - 116ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 18ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /auth/signup"}
+{"level":"info","message":"[200] GET /signup - 20ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /auth/signup"}
+{"level":"info","message":"[302] GET /signup - 15ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /signIn"}
+{"level":"info","message":"[200] GET /signIn - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 8ms"}
+{"level":"info","message":"[GET] /auth/signup"}
+{"level":"info","message":"[302] GET /signup - 3ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 13ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 11ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[200] GET /styles.css - 5ms"}
+{"level":"info","message":"[GET] /scripts.js"}
+{"level":"info","message":"[200] GET /scripts.js - 5ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 29ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 5ms"}
+{"level":"info","message":"[GET] /scripts.js"}
+{"level":"info","message":"[304] GET /scripts.js - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /scripts.js"}
+{"level":"info","message":"[200] GET /scripts.js - 3ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 5ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 10ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /getAllUsers"}
+{"level":"info","message":"[200] GET /getAllUsers - 3ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 4ms"}
+{"level":"info","message":"[GET] /getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 34ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 23ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 21ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 8ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 12ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 24ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 5ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 8ms"}
+{"level":"info","message":"[200] GET /javascript/script.js - 14ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[400] GET /getAllUsers - 2ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 13ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 5ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 14ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[400] GET /getAllUsers - 3ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"error","message":"Error: Failed to lookup view \"posts\" in views directory \"C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\"\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:597:17)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at getAllPost (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/userConroller.js:22:11)"}
+{"level":"info","message":"[500] GET /users/getAllPost - 59ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 14ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 25ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[400] GET /getAllUsers - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[400] GET /getAllUsers - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[400] GET /getAllUsers - 16ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[200] GET /getAllUsers - 58ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 16ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 5ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 35ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 57ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 51ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 70ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 52ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 57ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 54ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 51ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 9ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 62ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 9ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 8ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 8ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 8ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 10ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[200] GET /javascript/script.js - 15ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"error","message":"Error: Failed to lookup view \"posts\" in views directory \"C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\"\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:597:17)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at getAllPost (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/userConroller.js:19:11)"}
+{"level":"info","message":"[500] GET /users/getAllPost - 7ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 53ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 7ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 5ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 10ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 58ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 8ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[200] GET /javascript/script.js - 17ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 9ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 12ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[200] GET /javascript/script.js - 14ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 37ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"error","message":"Error: Failed to lookup view \"posts\" in views directory \"C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\"\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:597:17)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at getAllPost (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/userConroller.js:19:11)"}
+{"level":"info","message":"[500] GET /users/getAllPost - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 8ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"error","message":"Error: Failed to lookup view \"posts\" in views directory \"C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\"\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:597:17)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at getAllPost (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/userConroller.js:19:11)"}
+{"level":"info","message":"[500] GET /users/getAllPost - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 4ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"error","message":"Error: Failed to lookup view \"posts\" in views directory \"C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\"\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:597:17)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at getAllPost (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/userConroller.js:19:11)"}
+{"level":"info","message":"[500] GET /users/getAllPost - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 9ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 12ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 15ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 12ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 34ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 9ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 26ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 41ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /styles.css - 112ms"}
+{"level":"info","message":"[200] GET /javascript/script.js - 54ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[200] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 5ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 7ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 3ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /process"}
+{"level":"info","message":"[200] GET /process - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 3ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[200] GET /getAllUsers - 175ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 4ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 14ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 20ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 33ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 12ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[200] GET /javascript/script.js - 15ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 33ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"error","message":"Error: Failed to lookup view \"posts\" in views directory \"C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\"\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:597:17)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at getAllPost (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/userConroller.js:19:11)"}
+{"level":"info","message":"[500] GET /users/getAllPost - 7ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 13ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 20ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 16ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 11ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 37ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 12ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 8ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 31ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"error","message":"Error: Failed to lookup view \"posts\" in views directory \"C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\"\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:597:17)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at getAllPost (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/userConroller.js:19:11)"}
+{"level":"info","message":"[500] GET /users/getAllPost - 6ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[500] GET /getAllPost - 58ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 6ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 8ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[500] GET /getAllPost - 4ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 13ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 10ms"}
+{"level":"info","message":"[200] GET /javascript/script.js - 17ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[500] GET /getAllPost - 29ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 13ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[200] GET /getAllPost - 24ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 11ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 8ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 14ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 11ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 16ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 30ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 10ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 8ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 11ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 16ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 32ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 4ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 12ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 23ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 11ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 5ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[304] GET /javascript/script.js - 5ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 3ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 5ms"}
+{"level":"info","message":"[304] GET /javascript/script.js - 5ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 13ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 15ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 24ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 11ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 15ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 12ms"}
+{"level":"info","message":"[200] GET /javascript/script.js - 15ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 27ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 22ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 11ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 15ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 11ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 32ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 12ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 13ms"}
+{"level":"info","message":"[200] GET /javascript/script.js - 20ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 22ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 10ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 8ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 4ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 4ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 14ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 5ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 11ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 11ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 46ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 37ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 4ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 10ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 3ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 2ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 12ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 11ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 59ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 8ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 34ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 9ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 13ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 10ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 31ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 14ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 14ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 25ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 10ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 11ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 5ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 14ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 23ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 9ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 11ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 12ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 33ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 12ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 12ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 9ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 21ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 12ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 6ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 6ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 4ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 2ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 4ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 12ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 25ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 13ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 23ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 22ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 10ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 13ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 10ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[POST] /user/createPost"}
+{"level":"info","message":"[200] POST /user/createPost - 2ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 8ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 3ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /users/createPost"}
+{"level":"info","message":"[400] POST /createPost - 5ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/createPost"}
+{"level":"info","message":"[200] GET /users/createPost - 25ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 11ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 4ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 10ms"}
+{"level":"info","message":"[POST] /users/createPost"}
+{"level":"info","message":"[400] POST /createPost - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 13ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 14ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[POST] /users/createPost"}
+{"level":"info","message":"[400] POST /createPost - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/createPost"}
+{"level":"info","message":"[304] GET /users/createPost - 20ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 7ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[POST] /users/createPost"}
+{"level":"info","message":"[400] POST /createPost - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 30ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 10ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 13ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[POST] /users/createPost"}
+{"level":"info","message":"[400] POST /createPost - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 12ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 13ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[POST] /users/createPost"}
+{"level":"info","message":"[302] POST /createPost - 47ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 6ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[304] GET /javascript/script.js - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 8ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[200] GET /getAllPost - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 4ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /users/createPost"}
+{"level":"info","message":"[302] POST /createPost - 13ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 5ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 5ms"}
+{"level":"info","message":"[304] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[200] GET /getAllPost - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 5ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 5ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[200] GET /getAllUsers - 18ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 11ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 3ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 10ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[POST] /users/createPost"}
+{"level":"info","message":"[302] POST /createPost - 13ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 3ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 3ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[200] GET /getAllUsers - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[200] GET /getAllPost - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 11ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 12ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 11ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 35ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 17ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 10ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 31ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 14ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 13ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 13ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 8ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 38ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 11ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 8ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 34ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 13ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 10ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 8ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 9ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 4ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 8ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 6ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 10ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 10ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 44ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 13ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[200] GET /javascript/script.js - 15ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 36ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 5ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 5ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 11ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 52ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 15ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 12ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 32ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 6ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 8ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 6ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 14ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 2ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 3ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 23ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 4ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 22ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 29ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 9ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[PUT] /users/posts/"}
+{"level":"info","message":"[200] PUT /users/posts/ - 10ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 8ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 28ms"}
+{"level":"info","message":"[PUT] /users/posts/"}
+{"level":"info","message":"[200] PUT /users/posts/ - 2ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 7ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 6ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[PUT] /users/posts/"}
+{"level":"info","message":"[200] PUT /users/posts/ - 12ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 12ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 14ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 13ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 31ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[PUT] /users/post/"}
+{"level":"info","message":"[200] PUT /users/post/ - 12ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 16ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 10ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 11ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 4ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 2ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 26ms"}
+{"level":"info","message":"[PUT] /users/post/"}
+{"level":"info","message":"[200] PUT /users/post/ - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 14ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 13ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 10ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 12ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 45ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 14ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 12ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[POST] /users/createPost"}
+{"level":"info","message":"[302] POST /createPost - 36ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 5ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[200] GET /getAllUsers - 15ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[200] GET /getAllPost - 6ms"}
+{"level":"info","message":"[PUT] /users/post/"}
+{"level":"info","message":"[200] PUT /users/post/ - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 13ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /styles.css - 9ms"}
+{"level":"info","message":"[200] GET /javascript/script.js - 14ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 32ms"}
+{"level":"info","message":"[PUT] /users/post/"}
+{"level":"info","message":"[200] PUT /users/post/ - 4ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 8ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[304] GET /getAllPost - 7ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[PUT] /users/post/"}
+{"level":"info","message":"[200] PUT /users/post/ - 11ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 15ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 6ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[POST] /users/createPost"}
+{"level":"info","message":"[302] POST /createPost - 37ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 7ms"}
+{"level":"info","message":"[GET] /styles.css"}
+{"level":"info","message":"[304] GET /styles.css - 3ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 11ms"}
+{"level":"info","message":"[GET] /users/getAllPost"}
+{"level":"info","message":"[200] GET /getAllPost - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[PUT] /users/post/undefined"}
+{"level":"info","message":"[400] PUT /post/undefined - 5ms"}
+{"level":"info","message":"[PUT] /users/post/undefined"}
+{"level":"info","message":"[400] PUT /post/undefined - 3ms"}
+{"level":"info","message":"[PUT] /users/post/undefined"}
+{"level":"info","message":"[400] PUT /post/undefined - 4ms"}
+{"level":"info","message":"server is running on port 3000"}

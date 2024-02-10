@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Downloaded Content</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <h1>Downloaded Content</h1>
+    <% for (const content of data) { %>
+        <div class="content">
+            <pre><%= content %></pre>
+        </div>
+    <% } %>
+</body>
+</html>

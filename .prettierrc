@@ -1,0 +1,16 @@
+{
+	"trailingComma": "es5",
+	"endOfLine": "auto",
+	"arrowParens": "avoid",
+	"parser": "yaml",
+	"singleQuote": true,
+	"semi": true,
+	"tabWidth": 2,
+	"useTabs": true,
+	"printWidth": 120,
+	"bracketSpacing": true,
+	"jsxBracketSameLine": true,
+	"eslintIntegration": true,
+	"prettierIntegration": true,
+	"embeddedLanguageFormatting": "auto"
+}
