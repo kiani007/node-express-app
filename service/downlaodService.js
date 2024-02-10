@@ -8,6 +8,7 @@ const DownlaodService = {
 			const download = await Promise.all(urls.map(async (url) => {
 				const response = await fetch(url);
 				if (!response.ok) {
+					logger.error(`HTTP error! Status: ${response.status}`);
 					throw new Error(`HTTP error! Status: ${response.status}`);
 				}
 				return response.text
