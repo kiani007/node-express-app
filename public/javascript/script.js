@@ -28,20 +28,36 @@ document.addEventListener('DOMContentLoaded', async () => {
                 case "CreatePostBtn":
                     renderCreatePostForm();
                     return;
+                case "downloadUrls":
+                    endpoint = "/download/downlaod-url"; // This should match your server route
+                    break;
                 default:
                     return;
             }
-            const response = await fetch(endpoint);
-            if (!response.ok) {
-                throw new Error('Failed to fetch content');
+    
+            // For non-AJAX content (JSON data)
+            if (tabId !== "downloadUrls") {
+                const response = await fetch(endpoint);
+                if (!response.ok) {
+                    throw new Error('Failed to fetch content');
+                }
+                const data = await response.json();
+                const content = getTabContentById(tabId, data);
+                renderContent(content);
+            } else {
+                // For AJAX content (HTML)
+                const response = await fetch(endpoint);
+                if (!response.ok) {
+                    throw new Error('Failed to fetch content');
+                }
+                const html = await response.text();
+                document.getElementById('content').innerHTML = html;
             }
-            const data = await response.json();
-            const content = getTabContentById(tabId, data);
-            renderContent(content);
         } catch (error) {
             console.error('Error fetching content:', error.message);
         }
     }
+    
 
     function getTabContentById(tabId, data) {
         switch (tabId) {

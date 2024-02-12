@@ -1,4 +1,4 @@
-export const successResponse = ({ datat, message, status })=>{
+export const successResponse = ({ metadata, message, status })=>{
 return {
 metadata,
 message,

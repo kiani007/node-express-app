@@ -6,7 +6,7 @@ const DownlaodService = {
 	  downloadFromUrl: async (urls) => {
         const downloadObjects = [];
         try {
-            const downloads = await Promise.all(urls.map(async (url) => {
+             await Promise.all(urls.map(async (url) => {
                 const response = await fetch(url);
                 if (!response.ok) {
                     const errorMessage = `HTTP error! Status: ${response.status}`;
@@ -31,7 +31,7 @@ const DownlaodService = {
 		try {
 			const downloadedContents = await prisma.downlaodedContent.findFirst({
 				//getting last stored contents
-				where: { id: id },
+				where: { id },
 				order: 'desc',
 			});
 			return downloadedContents;
