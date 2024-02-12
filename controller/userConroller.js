@@ -44,7 +44,9 @@ const UserController = {
       if (!userId || !title || !content) {
         throw new Error('User ID, title, and content are required');
       }
-      await UserService.createPost({authorId: userId, title, content});
+     const post =  await UserService.createPost({authorId: userId, title, content});
+     return res.status(HTTP_STATUS.OK).json(post);
+
     } catch (error) {
       return res.status(400).send(`Error creating post: ${error.message}`);
     }

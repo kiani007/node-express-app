@@ -3,29 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Downloaded Content</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <title>Beautiful URL Downloader</title>
+    <!-- Include Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+      
+        .container {
+            max-width: 650px;
+        }
+        .input-group {
+            margin-bottom: 10px;
+        }
+        .input-group .form-control, .input-group .btn {
+            margin-right: 5px;
+        }
+        .input-group .btn-remove {
+            margin-left: 5px;
+        }
+        .input-group .btn:last-child {
+            margin-right: 0;
+        }
+    </style>
 </head>
 <body>
-    
-    <h1>URL Downloader</h1>
-    <form id="urlForm" action="/download/downlaod-content" method="POST">
-        <div id="urlInputs">
-            <input type="text" name="urls[]" placeholder="Enter URL" required>
-        </div>
-        <button type="button" onclick="addUrlInput()">Add URL</button>
-        <button type="submit">Download Content</button>
-    </form>
+    <%- include('partials/header') %>
+    <div class="container">
+        <h1 class="text-center mb-4">URL Downloader</h1>
+        <form id="urlForm" action="/download/download-content" method="POST" class="form-inline justify-content-center">
+            <div id="urlInputs" class="mb-3">
+                <div class="input-group">
+                    <input type="text" class="form-control" name="urls[]" placeholder="Enter URL" required>
+                    <div class="input-group-append">
+                        <button type="button" class="btn btn-outline-secondary" onclick="addUrlInput()">Add URL</button>
+                        <button type="submit" class="btn btn-primary">Download Content</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
 
     <script>
         function addUrlInput() {
             const urlInputs = document.getElementById("urlInputs");
+            const newInputGroup = document.createElement("div");
+            newInputGroup.className = "input-group";
+
             const newInput = document.createElement("input");
             newInput.type = "text";
             newInput.name = "urls[]";
+            newInput.placeholder = "Enter URL";
+            newInput.className = "form-control";
             newInput.required = true;
-            urlInputs.appendChild(newInput);
+
+            const removeButton = document.createElement("button");
+            removeButton.type = "button";
+            removeButton.className = "btn btn-outline-danger btn-remove";
+            removeButton.innerText = "Remove";
+            removeButton.onclick = function() {
+                // this.parentNode represents the .input-group
+                this.parentNode.remove();
+            };
+
+            newInputGroup.appendChild(newInput);
+            newInputGroup.appendChild(removeButton);
+            urlInputs.appendChild(newInputGroup);
         }
     </script>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>

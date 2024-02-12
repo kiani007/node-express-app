@@ -40,7 +40,7 @@ const DownloadController = {
 		} catch (error) {
 			logger.error(error);
 			return res.render('downloadedurl', { message: error });
-			return res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({message: error});
+			// return res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({message: error});
 		}
 	},
 	getDownloadedContent: async (req, res) => {
@@ -54,7 +54,7 @@ const DownloadController = {
 			//but here we should render
 			return res.render('content', { title: 'content', data: downlaodedContent });
 
-			return res.status(HTTP_STATUS.OK).json(successResponse({ metadata: downlaodedContent, message: STATUS_MESSAGE.OK,status:HTTP_STATUS.OK }))
+			// return res.status(HTTP_STATUS.OK).json(successResponse({ metadata: downlaodedContent, message: STATUS_MESSAGE.OK,status:HTTP_STATUS.OK }))
 		} catch (error) {
 			logger.error(error);
 			res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({message: error});
