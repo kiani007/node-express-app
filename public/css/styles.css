@@ -17,3 +17,17 @@ form {
     padding: 20px;
     border: 1px solid #ccc;
 }
+.active-tab {
+    background-color: #0858ad; 
+    color: #fff; 
+}
+.user-list {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+.list-model{
+    box-shadow: 2px 2px 10px #b6b3b3;
+    padding: 10px;
+
+}

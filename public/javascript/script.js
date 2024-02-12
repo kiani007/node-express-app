@@ -1,127 +1,211 @@
-document.addEventListener('DOMContentLoaded', () => {
-    const getAllUsersBtn = document.getElementById('getAllUsersBtn');
-    const getAllPostsBtn = document.getElementById('getAllPostsBtn');
-    const contentDiv = document.getElementById('content');
-    const createPostBtn = document.getElementById("CreatePostBtn");
-    const createPostForm = document.getElementById("createPostForm");
-    const editPostForm = document.getElementById("editPostForm");
+document.addEventListener('DOMContentLoaded', async () => {
+    const logoutBtn = document.getElementById('logout');
+    const navLinks = document.querySelectorAll(".nav-link");
+  
 
-    createPostBtn.addEventListener("click", toggleCreatePostForm);
-    getAllUsersBtn.addEventListener('click', fetchAndRenderUsers);
-    getAllPostsBtn.addEventListener('click', fetchAndRenderPosts);
-    contentDiv.addEventListener('click', handlePostActions);
-    editPostForm.addEventListener('submit', updatePost);
+    navLinks.forEach(navLink => {
+        navLink.addEventListener("click", async event => {
+            navLinks.forEach(link => {
+                link.classList.remove("active", "active-tab");
+            });
+            navLink.classList.add("active", "active-tab");
+            await fetchContent(navLink.id);
+        });
+    });
 
-    async function fetchAndRenderUsers() {
+    await fetchContent("getAllUsersBtn");
+
+    async function fetchContent(tabId) {
         try {
-            const response = await fetch('/users/getAllUsers');
-            if (!response.ok) throw new Error('Failed to fetch users');
-            const data = await response.json();
-            renderUsers(data);
-            contentDiv.scrollIntoView({ behavior: "smooth", block: "start" });
-        } catch (error) {
-            console.error('Error fetching users:', error.message);
-        }
-    }
-
-    async function fetchAndRenderPosts() {
-        try {
-            const response = await fetch('/users/getAllPost');
-            if (!response.ok) throw new Error('Failed to fetch posts');
-            const data = await response.json();
-            renderPosts(data);
-            contentDiv.scrollIntoView({ behavior: "smooth", block: "start" });
-        } catch (error) {
-            console.error('Error fetching posts:', error.message);
-        }
-    }
-
-    function renderUsers(users) {
-        let html = '<h2>User List</h2>';
-        if (users && users.length > 0) {
-            for (const user of users) {
-                html += `<div class="card mb-3">
-                            <div class="card-body">
-                                <h5 class="card-title">${user.name}</h5>
-                                <p class="card-text">${user.email}</p>
-                            </div>
-                        </div>`;
+            let endpoint;
+            switch (tabId) {
+                case "getAllUsersBtn":
+                    endpoint = "/users/getAllUsers";
+                    break;
+                case "getAllPostsBtn":
+                    endpoint = "/users/getAllPosts";
+                    break;
+                case "CreatePostBtn":
+                    renderCreatePostForm();
+                    return;
+                default:
+                    return;
             }
-            contentDiv.innerHTML = html;
+            const response = await fetch(endpoint);
+            if (!response.ok) {
+                throw new Error('Failed to fetch content');
+            }
+            const data = await response.json();
+            const content = getTabContentById(tabId, data);
+            renderContent(content);
+        } catch (error) {
+            console.error('Error fetching content:', error.message);
         }
     }
 
-    function renderPosts(posts) {
-        let html = '<h2>Post List</h2>';
-        if (posts && posts.length > 0) {
-            for (const post of posts) {
-                html += `<div class="card mb-3">
+    function getTabContentById(tabId, data) {
+        switch (tabId) {
+            case "getAllUsersBtn":
+                return renderUserList(data);
+            case "getAllPostsBtn":
+                return renderPostList(data);
+            default:
+                return "";
+        }
+    }
+
+    function renderUserList(data) {
+        if (!data || data.length === 0) {
+            return "<h2>User List</h2><p>No users found.</p>";
+        }
+        return `
+            <h2 class="mt-4 mb-3">User List</h2>
+            <div class="card">
+                <div class="card-body">
+                    ${data.map(user => `
+                        <div class="card mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">User ID: ${user.id}</h5>
+                                <h6 class="card-subtitle mb-2 text-muted">User Name: ${user.name}</h6>
+                                <p class="card-text">User Email: ${user.email}</p>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+    function renderPostList(data) {
+        if (!data || data.length === 0) {
+            return "<h2>Post List</h2><p>This is the post list content.</p>";
+        }
+        return `
+            <h2 class="mt-4 mb-3">Post List</h2>
+            <div class="card post-data">
+                <div class="card-body">
+                    ${data.map(post => `
+                        <div class="card mb-3" data-post-id="${post.id}">
                             <div class="card-body">
                                 <h5 class="card-title">${post.title}</h5>
+                                <h6 class="card-subtitle mb-2 text-muted">Post ID: ${post.id}</h6>
                                 <p class="card-text">${post.content}</p>
-                                <button class="btn btn-primary edit-post" data-id="${post.id}">Edit</button>
-                                <button class="btn btn-danger delete-post" data-id="${post.id}">Delete</button>
+                                <div class="card-footer">
+                                    <button data-post-id="${post.id}" class="btn btn-primary edit-post-btn">Edit Post</button>
+                                    <button data-post-id="${post.id}" class="btn btn-danger delete-post-btn">Delete Post</button>
+                                </div>
                             </div>
-                        </div>`;
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+ function renderCreatePostForm(post = null) {
+    const titleValue = post ? post[0].title : '';
+    const contentValue = post ? post[0].content : '';
+    const buttonText = post ? 'Update Post' : 'Create Post';
+    const postId = post ? post[0].id : '';
+
+    const form = `
+        <h2 class="mt-4 mb-3">${post ? 'Edit Post' : 'Create Post'}</h2>
+        <div class="card" style="max-width: 500px;">
+            <div class="card-body">
+                <form id="createPostForm">
+                    <input type="hidden" id="postId" name="postId" value="${postId}">
+                    <div class="mb-3">
+                        <label for="title" class="form-label d-flex justify-content-start">Title</label>
+                        <input type="text" class="form-control" id="title" name="title" value="${titleValue}" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="content" class="form-label d-flex justify-content-start">Content</label>
+                        <textarea class="form-control" id="content" name="content" rows="5" style="max-height: 150px;" required>${contentValue}</textarea>
+                    </div>
+                    </form>
+                <button  id="createPostBtn" class="btn btn-primary create-post-btn">${buttonText}</button>
+            </div>
+        </div>
+    `;
+    renderContent(form);
+    }
+
+    function renderContent(content) {
+        const contentElement = document.getElementById("content");
+        contentElement.innerHTML = content;
+    }
+
+   document.addEventListener('click', async (event) => {
+        const postId = event.target.dataset.postId;
+       const postCard = event.target.closest('.post');
+        if(event.target.classList.contains('create-post-btn')){
+            console.log('create post');
+            handleSubmit();
+        }
+        if (event.target.classList.contains('edit-post-btn')) {
+            handleEditPost(postId, postCard);
+        } else if (event.target.classList.contains('delete-post-btn')) {
+            handleDeletePost(postId);
+        }
+    });
+
+    async function handleEditPost(postId, postCard) {
+        if (!postId) return;
+        try {
+            const response = await fetch(`/users/getPost/${postId}`);
+            if (!response.ok) {
+                throw new Error('Failed to fetch post for editing');
             }
-        } else {
-            html += '<p>No posts found</p>';
-        }
-        contentDiv.innerHTML = html;
-    }
-createPostForm.style.display === "none"
-    function toggleCreatePostForm(event) {
-        event.preventDefault();
-        if (createPostForm.style.display === "none") {
-            contentDiv.style.display = "none";
-            createPostForm.style.display = "block";
-        } else {
-            createPostForm.style.display = "none";
-        }
-        contentDiv.scrollIntoView({ behavior: "smooth", block: "start" });
-    }
-
-    function handlePostActions(event) {
-        if (event.target.classList.contains('edit-post')) {
-			const ddd = event.target.dataset;
-			console.log(ddd);
-			 contentDiv.style.display = "none";
-            // createPostForm.style.display = "block";
-			editPostForm.style.display = "block";
-			updatePost(event,postId);
-        }
-
-        if (event.target.classList.contains('delete-post')) {
-			const postId = event.target.dataset.id;
-			
-        
+            const post = await response.json();
+            renderCreatePostForm(post);
+        } catch (error) {
+            console.error('Error editing post:', error.message);
         }
     }
 
-    async function updatePost(event,postId) {
-        event.preventDefault();
-        const formData = new FormData(event.target);
+    async function handleDeletePost(postId) {
+        if (!postId) return;
+        if (!confirm('Are you sure you want to delete this post?')) return;
+        try {
+            const response = await fetch(`/users/deletePost/${postId}`, {
+                method: 'DELETE'
+            });
+            if (!response.ok) {
+                throw new Error('Failed to delete post');
+            }
+            console.log('Post deleted successfully!');
+            window.location.href = '/';
+        } catch (error) {
+            console.error('Error deleting post:', error.message);
+        }
+    }
+
+    
+    
+    const handleSubmit = async() => {
+        const form = document.getElementById('createPostForm');
+        const formData = new FormData(form);
         const title = formData.get('title');
         const content = formData.get('content');
-
+        const postId = formData.get('postId');
+        const url = postId ? `/users/updatePost/${postId}` : '/users/createPost';
+        const method = postId ? 'PUT' : 'POST';
         try {
-            const response = await fetch(`/users/post/${postId}`, {
-                method: 'PUT',
+            const response = await fetch(url, {
+                method: method,
                 headers: {
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({ title, content })
             });
-
             if (!response.ok) {
-                throw new Error('Failed to update post');
+                throw new Error('Failed to save data');
             }
-
-            console.log('Post updated successfully');
-            window.location.reload();
-           
+            alert('Data saved successfully!');
+            window.location.href = '/';
         } catch (error) {
-            console.error('Error updating post:', error.message);
+            console.error('Error saving data:', error.message);
         }
-    }
+    };
+    
 });

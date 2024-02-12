@@ -13,7 +13,6 @@ const UserService = {
 				posts: true,
 			},
 		});
-		console.log(user);
       return user;
     } catch (error) {
       throw new Error(`Error fetching users: ${error.message}`);
@@ -39,9 +38,9 @@ const UserService = {
     }
   },
 
-  getPostById: async (userId) => {
+  getPostById: async (id) => {
     try {
-      const posts = await prisma.post.findMany({ where: { userId } });
+      const posts = await prisma.post.findMany({ where: { id } });
       return posts;
     } catch (error) {
       throw new Error(`Error fetching posts by user ID: ${error.message}`);
@@ -76,18 +75,21 @@ const UserService = {
     }
   },
 
-  updatePost: async (id, post) => {
-    try {
-      const updatedPost = await prisma.post.update({
-        where: { id },
-        data: post
-      });
-      return updatedPost;
-    } catch (error) {
-      throw new Error(`Error updating post: ${error.message}`);
-    }
-  },
-
+ updatePost: async (userId, id, title, content) => {
+  try {
+    const updatedPost = await prisma.post.update({
+      where: { id }, 
+      data: {
+        title: title,
+        content: content,
+        updatedAt: new Date() 
+      }
+    });
+    return updatedPost;
+  } catch (error) {
+    throw new Error(`Error updating post: ${error.message}`); // Handle errors
+  }
+},
   restorePost: async (id) => {
     try {
       await prisma.post.update({
