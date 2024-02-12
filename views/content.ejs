@@ -7,24 +7,14 @@
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-      <h1>URL Downloader</h1>
-    <form id="urlForm" action="/download" method="POST">
-        <div id="urlInputs">
-            <input type="text" name="urls[]" required>
+    <h1>Downloaded Content</h1>
+     <% for (const content of data) { %>
+        <div class="content">
+            <pre><%= content.url  %></pre>
+            <pre><%= content.context %></pre>
+            
         </div>
-        <button type="button" onclick="addUrlInput()">Add URL</button>
-        <button type="submit">Download Content</button>
-    </form>
-
-    <script>
-        function addUrlInput() {
-            const urlInputs = document.getElementById("urlInputs");
-            const newInput = document.createElement("input");
-            newInput.type = "text";
-            newInput.name = "urls[]";
-            newInput.required = true;
-            urlInputs.appendChild(newInput);
-        }
-    </script>
+    <% } %>
+     
 </body>
 </html>

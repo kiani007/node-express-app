@@ -134,7 +134,21 @@ document.addEventListener('DOMContentLoaded', async () => {
         const contentElement = document.getElementById("content");
         contentElement.innerHTML = content;
     }
-
+    const logout = async() => {
+         try {
+            const response = await fetch(`/users/logout`, {
+                method: 'GET'
+            });
+            if (!response.ok) {
+                throw new Error('Failed');
+             }
+             setTimeout(() => {
+                 window.location.href = '/';
+             }, 3000);
+        } catch (error) {
+            console.error('Error logging out:', error.message);
+        }
+    }
    document.addEventListener('click', async (event) => {
         const postId = event.target.dataset.postId;
        const postCard = event.target.closest('.post');
@@ -146,7 +160,9 @@ document.addEventListener('DOMContentLoaded', async () => {
             handleEditPost(postId, postCard);
         } else if (event.target.classList.contains('delete-post-btn')) {
             handleDeletePost(postId);
-        }
+       } else if(event.target.classList.contains('btn-logout')){    
+        logout();
+       }
     });
 
     async function handleEditPost(postId, postCard) {
@@ -181,7 +197,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     
-    
+   
     const handleSubmit = async() => {
         const form = document.getElementById('createPostForm');
         const formData = new FormData(form);

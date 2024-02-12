@@ -3,23 +3,30 @@ const prisma = new PrismaClient();
 
 
 const DownlaodService = {
-	downloadFromUrl: async (urls) => {
-		try {
-			const download = await Promise.all(urls.map(async (url) => {
-				const response = await fetch(url);
-				if (!response.ok) {
-					logger.error(`HTTP error! Status: ${response.status}`);
-					throw new Error(`HTTP error! Status: ${response.status}`);
-				}
-				return response.text
-			}))
-			const downlaodedContent = await prisma.downlaodedContent.create({ data: download })
-			return downlaodedContent;
-		} catch (error) {
-			logger.error(error);
-			throw new Error(error);
-		}
-	},
+	  downloadFromUrl: async (urls) => {
+        const downloadObjects = [];
+        try {
+            const downloads = await Promise.all(urls.map(async (url) => {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    const errorMessage = `HTTP error! Status: ${response.status}`;
+                    logger.error(errorMessage);
+                    throw new Error(errorMessage);
+                }
+                const data = await response.json(); 
+                const downloadData = { url, content: JSON.stringify(data) }; 
+                downloadObjects.push(downloadData);
+                return data;
+            })); 
+    
+            console.log('downloadedContent', downloadObjects);
+            return downloadObjects;
+        } catch (error) {
+            logger.error(error.message);
+            throw new Error(error.message);
+        }
+    },
+
 	getDownlaodedContent : async (id) => {
 		try {
 			const downloadedContents = await prisma.downlaodedContent.findFirst({

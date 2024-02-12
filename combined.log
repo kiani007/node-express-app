@@ -1,0 +1,815 @@
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 28ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /css/styles.css - 8ms"}
+{"level":"info","message":"[304] GET /javascript/script.js - 7ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 41ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 6ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 3ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 5ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 11ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 5ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /css/styles.css - 9ms"}
+{"level":"info","message":"[304] GET /javascript/script.js - 6ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 5ms"}
+{"level":"info","message":"[GET] /..."}
+{"level":"info","message":"[200] GET /... - 4ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 2ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /..."}
+{"level":"info","message":"[304] GET /... - 2ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 19ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 2ms"}
+{"level":"info","message":"[GET] /users/getAllPosts"}
+{"level":"info","message":"[304] GET /getAllPosts - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 6ms"}
+{"level":"info","message":"[GET] /users/getAllPosts"}
+{"level":"info","message":"[304] GET /getAllPosts - 4ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 6ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 5ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 1ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 15ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /users/getAllPosts"}
+{"level":"info","message":"[304] GET /getAllPosts - 6ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 6ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 5ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 13ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 2ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 6ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 5ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 5ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 1ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 2ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 4ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 4ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /css/styles.css - 5ms"}
+{"level":"info","message":"[304] GET /javascript/script.js - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 4ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 5ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 11ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 7ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 1ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 5ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 2ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 5ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 3ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 2ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 5ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 11ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 5ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 11ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 1ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[304] GET /getAllUsers - 9ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 5ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 2ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 1ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 6ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 2ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 14ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 6ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /users/getAllPosts"}
+{"level":"info","message":"[304] GET /getAllPosts - 5ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"error","message":"Error: Failed to lookup view \"downloadurl\" in views directory \"C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\views\"\n    at Function.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\application.js:597:17)\n    at ServerResponse.render (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\response.js:1039:7)\n    at renderDownloadContent (file:///C:/Users/ammar/OneDrive/Desktop/code%20with%20ammar/node-task-crud/controller/downloadController.js:9:15)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\ammar\\OneDrive\\Desktop\\code with ammar\\node-task-crud\\node_modules\\express\\lib\\router\\index.js:280:10)"}
+{"level":"info","message":"[500] GET /download/downlaod-url - 45ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"info","message":"[200] GET /downlaod-url - 11ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[200] GET /css/style.css - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /download"}
+{"level":"info","message":"[200] POST / - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"info","message":"[200] GET /downlaod-url - 3ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /download/downlaod-urls-data"}
+{"level":"error"}
+{"level":"info","message":"[500] POST /downlaod-urls-data - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 18ms"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"info","message":"[200] GET /downlaod-url - 10ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[500] POST /downlaod-content - 1144ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[500] POST /downlaod-content - 656ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[500] POST /downlaod-content - 227ms"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"info","message":"[304] GET /downlaod-url - 5ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[500] POST /downlaod-content - 1029ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[500] POST /downlaod-content - 903ms"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"info","message":"[304] GET /downlaod-url - 12ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[500] POST /downlaod-content - 1125ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"info","message":"[304] GET /downlaod-url - 20ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[500] POST /downlaod-content - 1053ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[500] POST /downlaod-content - 113ms"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"info","message":"[304] GET /downlaod-url - 11ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[500] POST /downlaod-content - 12ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 846ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 577ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 2089ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 8ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 843ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 927ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 884ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 9ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 800ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 1041ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 15ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 920ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 82ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 1005ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 28ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 15ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 1069ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 920ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 976ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 8ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 1043ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 910ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 11ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 1531ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 527ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 461ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 913ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 599ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 15ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 735ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 953ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 198ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 9ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 201ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 2ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 883ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 8ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 199ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 14ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 529ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 738ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 572ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"error"}
+{"level":"info","message":"[200] POST /downlaod-content - 809ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 9ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 25ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 489ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 9ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 704ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 13ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 805ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 14ms"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"info","message":"[304] GET /downlaod-url - 5ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 575ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 2ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 1101ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 852ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 8ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 692ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 14ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 209ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 680ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 483ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 4ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 469ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 6ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 343ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 2ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[GET] /download/downlaod-content"}
+{"level":"info","message":"[200] GET /downlaod-content - 2ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"info","message":"[304] GET /downlaod-url - 5ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[POST] /download/downlaod-content"}
+{"level":"info","message":"hitted: /downlaod-content"}
+{"level":"info","message":"[200] POST /downlaod-content - 1269ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 2ms"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"info","message":"[304] GET /downlaod-url - 4ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 2ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 21ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 8ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[304] GET /getAllUsers - 58ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 5ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 3ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 3ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 10ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 6ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[200] GET / - 8ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 3ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 2ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 15ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 5ms"}
+{"level":"info","message":"[GET] /download/downlaod-url"}
+{"level":"info","message":"[304] GET /downlaod-url - 8ms"}
+{"level":"info","message":"[GET] /css/style.css"}
+{"level":"info","message":"[304] GET /css/style.css - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 21ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 12ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 7ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 12ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[304] GET /getAllUsers - 46ms"}
+{"level":"info","message":"[DELETE] /users/logout"}
+{"level":"info","message":"[200] DELETE /users/logout - 3ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 8ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 2ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 5ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"server is running on port 3000"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 26ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 5ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[200] GET /javascript/script.js - 9ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
+{"level":"info","message":"[304] GET /getAllUsers - 42ms"}
+{"level":"info","message":"[DELETE] /users/logout"}
+{"level":"info","message":"[200] DELETE /users/logout - 3ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 3ms"}
+{"level":"info","message":"[GET] /"}
+{"level":"info","message":"[304] GET / - 6ms"}
+{"level":"info","message":"[GET] /css/styles.css"}
+{"level":"info","message":"[304] GET /css/styles.css - 4ms"}
+{"level":"info","message":"[GET] /javascript/script.js"}
+{"level":"info","message":"[304] GET /javascript/script.js - 4ms"}
+{"level":"info","message":"[GET] /users/getAllUsers"}
+{"level":"info","message":"[304] GET /getAllUsers - 7ms"}
+{"level":"info","message":"[GET] /favicon.ico"}
+{"level":"info","message":"[304] GET /favicon.ico - 4ms"}
