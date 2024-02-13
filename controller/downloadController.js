@@ -7,7 +7,8 @@ import { json } from "express"
 const DownloadController = {
 	renderDownloadContent: async (req, res, next) => {
 		try {
-			return res.render('downloadedurl',{title: "Downlaod from URL"})
+			// return res.render('downloadedurl',{title: "Downlaod from URL"})
+			return
 		} catch (error) {
 			logger.error(error);// can use next to pass to error handler 
 			// next(error);
@@ -18,7 +19,7 @@ const DownloadController = {
 		try {
 			logger.info(`hitted: ${req.path}`);
 			const { urls } = req.body
-			console.log(urls);
+			console.log({urls});
 			const downloadedContents = await DownlaodService.downloadFromUrl(urls);
 			console.log('success', downloadedContents);
 			const downloadedContentObjects = downloadedContents.map(({ url, content }) => {
